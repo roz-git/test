@@ -128,7 +128,7 @@ const help = [
 ];
 // load data
 let url_github = 'https://raw.githubusercontent.com/roz-git/test/main/export.json'
-let url_json = 'http://avestaomsk-new.loc/api/v1/d3-get-data'
+let url_json = 'https://raw.githubusercontent.com/roz-git/test/main/d3-get-data.json'
 /* return {
         CountryName: d.CountryName,
         IndicatorName: d.IndicatorName,
