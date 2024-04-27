@@ -126,6 +126,7 @@ const help = [
     type: 'Перепланировка'
   },
 ];
+
 // load data
 let url_github = 'https://raw.githubusercontent.com/roz-git/test/main/export.json'
 let url_json = 'https://raw.githubusercontent.com/roz-git/test/main/d3-get-data.json'
