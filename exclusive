@@ -1,0 +1,2268 @@
+// 20240524183059
+// http://avestaomsk-new.loc/api/v1/analytics/exclusive
+
+{
+  "data": {
+    "2024": {
+      "01": {
+        "12": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "17": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "18": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "19": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "22": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "25": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "26": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "29": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "31": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        }
+      },
+      "03": {
+        "14": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "15": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "18": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "20": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "21": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "25": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "29": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "05": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "06": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "01": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "04": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        }
+      },
+      "02": {
+        "10": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "12": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "14": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "15": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "16": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "19": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "20": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "21": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "26": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "27": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "28": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "29": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "05": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "02": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "01": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "09": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "04": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "06": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        }
+      },
+      "05": {
+        "13": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "14": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "15": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "02": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "01": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "07": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "06": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        }
+      },
+      "04": {
+        "12": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "13": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "15": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "18": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "19": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "22": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "23": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "24": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "25": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "27": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "05": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "09": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        },
+        "01": {
+          "se": [
+            
+          ],
+          "et": [
+            
+          ],
+          "sn": [
+            
+          ]
+        }
+      }
+    },
+    "Additional": [
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "168765",
+        "uid": "23101",
+        "action": "service_contract",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_581",
+        "type": "Сопровождение по сертификату ( 10 т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "169745",
+        "uid": "1759",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "169840",
+        "uid": "411",
+        "action": "service_withdrawn",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "169855",
+        "uid": "470",
+        "action": "service_withdrawn",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170082",
+        "uid": "15809",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170302",
+        "uid": "470",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170302",
+        "uid": "470",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170430",
+        "uid": "25790",
+        "action": "created",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170430",
+        "uid": "25790",
+        "action": "service_contract",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170487",
+        "uid": "13898",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "170487",
+        "uid": "13898",
+        "action": "service_withdrawn",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170488",
+        "uid": "13898",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "170488",
+        "uid": "13898",
+        "action": "service_withdrawn",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170536",
+        "uid": "1759",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170536",
+        "uid": "1759",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170576",
+        "uid": "375",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170576",
+        "uid": "375",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170656",
+        "uid": "15809",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170656",
+        "uid": "15809",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170678",
+        "uid": "455",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170678",
+        "uid": "455",
+        "action": "service_contract",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170705",
+        "uid": "375",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "170705",
+        "uid": "375",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170743",
+        "uid": "4871",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "170743",
+        "uid": "4871",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170808",
+        "uid": "330",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170808",
+        "uid": "330",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "01",
+        "nid": "170829",
+        "uid": "312",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170857",
+        "uid": "413",
+        "action": "created",
+        "office_id": "8",
+        "office": "Офис \"На Перелёта\"",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170857",
+        "uid": "413",
+        "action": "service_withdrawn",
+        "office_id": "8",
+        "office": "Офис \"На Перелёта\"",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170868",
+        "uid": "313",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170868",
+        "uid": "313",
+        "action": "service_contract",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170913",
+        "uid": "15809",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170913",
+        "uid": "15809",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170930",
+        "uid": "23275",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170930",
+        "uid": "23275",
+        "action": "service_contract",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170960",
+        "uid": "375",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "170960",
+        "uid": "375",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "170971",
+        "uid": "23275",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_530",
+        "type": "Перепланировка",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171071",
+        "uid": "470",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171071",
+        "uid": "470",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171116",
+        "uid": "461",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171116",
+        "uid": "461",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171133",
+        "uid": "13898",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171133",
+        "uid": "13898",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171134",
+        "uid": "24381",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171134",
+        "uid": "24381",
+        "action": "service_contract",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171223",
+        "uid": "411",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171223",
+        "uid": "411",
+        "action": "service_contract",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171348",
+        "uid": "375",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171348",
+        "uid": "375",
+        "action": "service_withdrawn",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171396",
+        "uid": "330",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171396",
+        "uid": "330",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171419",
+        "uid": "8121",
+        "action": "created",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "171419",
+        "uid": "8121",
+        "action": "service_contract",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171421",
+        "uid": "411",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171421",
+        "uid": "411",
+        "action": "service_withdrawn",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171502",
+        "uid": "24381",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "171502",
+        "uid": "15126",
+        "action": "service_contract",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171503",
+        "uid": "24381",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_585",
+        "type": "Подготовка распоряжения органа опеки ( 5 т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "171503",
+        "uid": "15126",
+        "action": "service_contract",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_585",
+        "type": "Подготовка распоряжения органа опеки ( 5 т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171506",
+        "uid": "7280",
+        "action": "created",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171506",
+        "uid": "7280",
+        "action": "service_contract",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171535",
+        "uid": "1759",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171535",
+        "uid": "1759",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171571",
+        "uid": "12135",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171571",
+        "uid": "12135",
+        "action": "service_contract",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171597",
+        "uid": "4871",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171597",
+        "uid": "4871",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "02",
+        "nid": "171598",
+        "uid": "312",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171682",
+        "uid": "7280",
+        "action": "created",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171682",
+        "uid": "7280",
+        "action": "service_contract",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "171743",
+        "uid": "13898",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "171743",
+        "uid": "13898",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "172154",
+        "uid": "411",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_579",
+        "type": "Оформление ипотеки ( 20 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "172158",
+        "uid": "375",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172158",
+        "uid": "375",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "172260",
+        "uid": "7280",
+        "action": "created",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "172260",
+        "uid": "7280",
+        "action": "service_contract",
+        "office_id": "7",
+        "office": "Офис на Кирова",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "172336",
+        "uid": "411",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172336",
+        "uid": "411",
+        "action": "service_contract",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "03",
+        "nid": "172502",
+        "uid": "5988",
+        "action": "created",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172502",
+        "uid": "5988",
+        "action": "service_contract",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172526",
+        "uid": "23275",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172526",
+        "uid": "23275",
+        "action": "service_contract",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172876",
+        "uid": "1759",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_581",
+        "type": "Сопровождение по сертификату ( 10 т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172893",
+        "uid": "5988",
+        "action": "created",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172893",
+        "uid": "5988",
+        "action": "service_contract",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "172929",
+        "uid": "4871",
+        "action": "created",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "172929",
+        "uid": "4871",
+        "action": "service_contract",
+        "office_id": "5",
+        "office": "Офис на Ленина",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173010",
+        "uid": "23101",
+        "action": "created",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173010",
+        "uid": "23101",
+        "action": "service_contract",
+        "office_id": "3",
+        "office": "Офис на Маяковского",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173029",
+        "uid": "1759",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173130",
+        "uid": "15809",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173130",
+        "uid": "15809",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_583",
+        "type": "Приобретение по материнскому капиталу ( 10 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173149",
+        "uid": "13898",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_581",
+        "type": "Сопровождение по сертификату ( 10 т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173149",
+        "uid": "13898",
+        "action": "service_withdrawn",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_581",
+        "type": "Сопровождение по сертификату ( 10 т.р. )",
+        "counts": "1",
+        "groups": "Additional withdrawn"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173171",
+        "uid": "23275",
+        "action": "created",
+        "office_id": "15",
+        "office": "Кировский офис",
+        "name": "count_additional_529",
+        "type": "Сопровождение",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173185",
+        "uid": "411",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173185",
+        "uid": "411",
+        "action": "service_contract",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173240",
+        "uid": "313",
+        "action": "created",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_581",
+        "type": "Сопровождение по сертификату ( 10 т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173240",
+        "uid": "313",
+        "action": "service_contract",
+        "office_id": "1",
+        "office": "Центральный офис",
+        "name": "count_additional_581",
+        "type": "Сопровождение по сертификату ( 10 т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "04",
+        "nid": "173254",
+        "uid": "1759",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173254",
+        "uid": "1759",
+        "action": "service_contract",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173270",
+        "uid": "15809",
+        "action": "created",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173270",
+        "uid": "15809",
+        "action": "service_contract",
+        "office_id": "2",
+        "office": "Советский офис",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173391",
+        "uid": "1759",
+        "action": "created",
+        "office_id": "9",
+        "office": "Офис \"На Красном Пути\"",
+        "name": "count_additional_578",
+        "type": "Сопровождение сделки ( 30 т.р.)",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173417",
+        "uid": "413",
+        "action": "created",
+        "office_id": "8",
+        "office": "Офис \"На Перелёта\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional"
+      },
+      {
+        "year": "2024",
+        "month": "05",
+        "nid": "173417",
+        "uid": "413",
+        "action": "service_contract",
+        "office_id": "8",
+        "office": "Офис \"На Перелёта\"",
+        "name": "count_additional_580",
+        "type": "Сопровождение ипотечной сделки ( 10т.р. )",
+        "counts": "1",
+        "groups": "Additional contract"
+      }
+    ]
+  },
+  "meta": {
+    "timestamp": 1716553368,
+    "startYear": "1979",
+    "chartTypes": {
+      "se": "Показов вторичка",
+      "et": "Сделок в",
+      "sn": "Показов новостройка"
+    }
+  },
+  "relationships": {
+    "employees": {
+      "312": {
+        "status": "1",
+        "uid": "312",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "1",
+        "manager": "Закирченко Т.В.",
+        "office": "Центральный офис"
+      },
+      "313": {
+        "status": "1",
+        "uid": "313",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "1",
+        "manager": "Емельянова А.А.",
+        "office": "Центральный офис"
+      },
+      "330": {
+        "status": "1",
+        "uid": "330",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "2",
+        "manager": "Каткова Я.В.",
+        "office": "Советский офис"
+      },
+      "375": {
+        "status": "1",
+        "uid": "375",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "5",
+        "manager": "Косинцев Ю.А.",
+        "office": "Офис на Ленина"
+      },
+      "411": {
+        "status": "1",
+        "uid": "411",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "1",
+        "manager": "Михеева Ю.А.",
+        "office": "Центральный офис"
+      },
+      "413": {
+        "status": "1",
+        "uid": "413",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "8",
+        "manager": "Ехлакова Т.В.",
+        "office": "Офис \"На Перелёта\""
+      },
+      "455": {
+        "status": "1",
+        "uid": "455",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "15",
+        "manager": "Шаповалова Н.А.",
+        "office": "Кировский офис"
+      },
+      "461": {
+        "status": "1",
+        "uid": "461",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "9",
+        "manager": "Ватулин С.В.",
+        "office": "Офис \"На Красном Пути\""
+      },
+      "470": {
+        "status": "1",
+        "uid": "470",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "9",
+        "manager": "Пичугина И.А.",
+        "office": "Офис \"На Красном Пути\""
+      },
+      "1759": {
+        "status": "1",
+        "uid": "1759",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "9",
+        "manager": "Онучина Н.А.",
+        "office": "Офис \"На Красном Пути\""
+      },
+      "4871": {
+        "status": "1",
+        "uid": "4871",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "5",
+        "manager": "Егупова В.А.",
+        "office": "Офис на Ленина"
+      },
+      "5988": {
+        "status": "1",
+        "uid": "5988",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "3",
+        "manager": "Литвинова Е.М.",
+        "office": "Офис на Маяковского"
+      },
+      "7280": {
+        "status": "1",
+        "uid": "7280",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "7",
+        "manager": "Лебедева Е.М.",
+        "office": "Офис на Кирова"
+      },
+      "8121": {
+        "status": "1",
+        "uid": "8121",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "7",
+        "manager": "Яковлева Н.С.",
+        "office": "Офис на Кирова"
+      },
+      "12135": {
+        "status": "1",
+        "uid": "12135",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "1",
+        "manager": "Варзинова Т.А.",
+        "office": "Центральный офис"
+      },
+      "13898": {
+        "status": "1",
+        "uid": "13898",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "2",
+        "manager": "Верас А.В.",
+        "office": "Советский офис"
+      },
+      "15126": {
+        "status": "1",
+        "uid": "15126",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "15",
+        "manager": "Каткова Я.В.",
+        "office": "Кировский офис"
+      },
+      "15809": {
+        "status": "1",
+        "uid": "15809",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "2",
+        "manager": "Валеева И.В.",
+        "office": "Советский офис"
+      },
+      "23101": {
+        "status": "1",
+        "uid": "23101",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "3",
+        "manager": "Лазарев А.Д.",
+        "office": "Офис на Маяковского"
+      },
+      "23275": {
+        "status": "1",
+        "uid": "23275",
+        "field_remove_statistics_value": "0",
+        "field_office_target_id": "15",
+        "manager": "Сергиенко О.В.",
+        "office": "Кировский офис"
+      },
+      "24381": {
+        "status": "0",
+        "uid": "24381",
+        "field_remove_statistics_value": "1",
+        "field_office_target_id": "15",
+        "manager": "Цальковская К.В.",
+        "office": "Кировский офис"
+      },
+      "25790": {
+        "status": "0",
+        "uid": "25790",
+        "field_remove_statistics_value": "1",
+        "field_office_target_id": "3",
+        "manager": "Иванов А.М.",
+        "office": "Офис на Маяковского"
+      }
+    }
+  },
+  "timer": 0.061869999999999994,
+  "timer_sql": 0.04521,
+  "success": 1
+}
