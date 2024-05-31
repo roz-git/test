@@ -1,3 +1,6 @@
+// 20240531102938
+// http://avestaomsk-new.loc/api/v1/d3-get-transaction
+
 {
   "data": {
     "transaction": [
@@ -1411,7 +1414,7 @@
     ]
   },
   "meta": {
-    "timestamp": 1716554035,
+    "timestamp": 1717129757,
     "startYear": "2020",
     "chartTypes": {
       "et": "Вторичка",
@@ -1606,7 +1609,7 @@
       }
     }
   },
-  "timer": 0.05987,
-  "timer_sql": 0.00925,
+  "timer": 0.18594,
+  "timer_sql": 0.047909999999999994,
   "success": 1
 }
